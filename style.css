@@ -1,0 +1,92 @@
+/* .contanier {
+  border: 1px solid black;
+  text-align: center;
+  width: 900px;
+  margin-left: 16rem;
+  padding: 2rem;
+}
+
+#year {
+  font-weight: bold;
+  font-size: 2rem;
+} */
+
+/* .contanier-1 {
+  border: 1px solid black;
+  width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+.flex-box-1 {
+  display: flex;
+  border: 1px solid black;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  flex-direction: row;
+  padding: 2rem;
+} */
+
+/* .contanier-3{
+    border: 1px solid black;
+    text-align: center;
+    margin-left: 16rem;
+    width: 900px;
+}
+
+.flex-box-3 {
+  display: flex;
+  border: 1px solid black;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  flex-direction: row;
+  padding: 2rem;
+} */
+.contanier-4 {
+  width: 70%;
+  margin: 0 auto;
+  border: 1px solid black;
+  text-align: center;
+}
+.flex-41,
+.flex-42,
+.flex-43 {
+  display: flex;
+  border: 1px solid black;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  flex-direction: row;
+  padding: 10px;
+}
+.flex-41 {
+  height: 400px;
+  background-color: darkgreen;
+  color: white;
+}
+.flex-41 img {
+  height: 100px;
+  margin: 1.2rem;
+}
+.flex-41 div {
+  width: 350px;
+}
+#blank {
+  font-size: 2rem;
+  font-weight: bold;
+  color: blue;
+}
+
+table th,
+td {
+  padding: 5px;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+/* jb  jb tere pas me aya ek sukon mila
+jise me tha bhulta aaya wo vjud mila
+jb aaye mosm gm ke tuje yad kiya ohhhhh
+jbse se hai me tnha pnsa tuje yad kia 
+dil smbla za zra  fir mob krne chla hai tu
+dil  yhi ruk za zara fir....
+d 
+il  */
